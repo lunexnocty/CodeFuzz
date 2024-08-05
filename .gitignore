@@ -1,6 +1,7 @@
 /bin/
-/builds/
-
+/build*
+/.vscode/
+/lib/
 # Prerequisites
 *.d
 
